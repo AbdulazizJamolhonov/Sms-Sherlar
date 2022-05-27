@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">SmsSherlar</string>
+    <string name="sms_nsherlar">Sms\nSherlar</string>
+    <string name="yangilar">Yangilar</string>
+    <string name="_122">122</string>
+    <string name="saqlanganlar">Saqlanganlar</string>
+    <string name="sevgi_sherlari">Sevgi sherlari</string>
+    <string name="sog_inch_armon">Sog\'inch armon</string>
+    <string name="tabrik_sherlari">Tabrik sherlari</string>
+    <string name="ota_ona_xaqida">Ota-Ona xaqida</string>
+    <string name="hazil_sherlar">Hazil sherlar</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+</resources>
